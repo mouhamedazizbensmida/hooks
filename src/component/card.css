@@ -1,0 +1,17 @@
+.card {
+    border: 0.1cm solid black;
+    width:  6cm;
+    height: 10cm;
+
+
+    justify-content: center;
+  }
+  .card img {
+    height: 100px;
+  }
+ 
+  .cardpr{
+    display: 
+    flex;
+    flex-direction: row;
+  }
